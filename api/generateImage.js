@@ -1,0 +1,1 @@
+// API handler placeholder for image generation
